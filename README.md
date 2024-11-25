@@ -5,7 +5,7 @@ This guide will walk you through setting up and initializing the Go project to u
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed on your system:
+Before you begin, ensure you have the following installed on your system :
 
 - Go Programming Language: [Install Go](https://golang.org/doc/install)
 - YouTube-DL: [Install YouTube-DL](https://github.com/ytdl-org/youtube-dl#installation)
